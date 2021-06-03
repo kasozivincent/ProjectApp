@@ -1,0 +1,3 @@
+D:\GraduationProjectApp\ProjectApp\ProjectApp\obj\Debug\netcoreapp3.1\ProjectApp.csprojAssemblyReference.cache
+D:\GraduationProjectApp\ProjectApp\ProjectApp\obj\Debug\netcoreapp3.1\App.g.cs
+D:\GraduationProjectApp\ProjectApp\ProjectApp\obj\Debug\netcoreapp3.1\ProjectApp_MarkupCompile.cache

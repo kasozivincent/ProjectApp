@@ -1,0 +1,6 @@
+﻿"Bacterial Pneumonia",
+"Covid19",
+"Health",
+"Lung Opacity",
+ "Tuberculosis",
+ "Viral Pneumonia",
